@@ -1,4 +1,4 @@
-language: phyton
+language:phyton
 phyton: 
 -"2.7"
 -"3.4"
